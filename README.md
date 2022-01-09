@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on open source projects in Java, Python, Azure or any new technology!
 - 🤔 I’m looking for help with what's next? 👀
-- 💬 Ask me about Cloud, Cloud and Cloud 😁
+- 💬 Ask me about Cloud ☁
 - 📫 How to reach me: LinkedIn @neha-nk-1709
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a Coder by passion and a Mech by soul ✨✨
