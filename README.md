@@ -17,6 +17,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
  </div>
  
- 
-<img src="https://komarev.com/ghpvc/?username=Nehank1709&style=flat-square&color=blue" alt=""/>
- 
