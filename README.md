@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on open source projects in Java, Python, Azure or any new technology!
 - 🤔 I’m looking for help with what's next? 👀
 - 💬 Ask me about Cloud ☁
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nehank1709-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/neha-nk-1709/)
+- 📫 How to reach me: Linkedin @neha-nk-1709
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a Coder by passion and a Mech by soul ✨✨
 
