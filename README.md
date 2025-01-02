@@ -9,7 +9,7 @@
 - 💬 Ask me about Cloud ☁
 - 📫 How to reach me: Linkedin @neha-nk-1709
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am a Coder by passion and a simple person by soul ✨✨
+- ⚡ Fun fact: I am a Coder by passion and a foodie by soul ✨✨
 
 <div>
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="48" height="50"/>&nbsp;
