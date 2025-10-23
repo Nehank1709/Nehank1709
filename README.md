@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I am Neha Kumari**  ✨ _Dare to learn new technology and open for collaboration_ ✨ A graduate and a Full-stack Software and ML Learning Enthusiast.
+**I am Neha Kumari**  ✨ _Dare to learn new technology and open for collaboration_ ✨ A graduate and a Full-stack Software and AI Learning Enthusiast.
 
 - 🔭 I’m currently working on improving my tech skills
 - 🌱 I’m currently learning Full-Stack Software Development
